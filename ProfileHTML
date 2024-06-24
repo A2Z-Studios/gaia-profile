@@ -1,0 +1,46 @@
+#content, #main, #about, #journal, #friends, #multimedia, #comments, #signature{height: auto;}
+html { background: #fff; font-family: verdana; font-size: 11px; height: 1024px}
+body {font-weight: normal; font-family: verdana; font-size: 11px; background:
+url(http://27.media.tumblr.com/tumblr_lybz3wVncv1r248c0o1_500.gif)   no-repeat;}
+background: right no-repeat;}
+
+
+a {color: #ffffff; text-decoration: none; font-weight: bold;}
+a:hover {color:#000; text-decoration: none; font-weight: normal; text-transform: lowercase;border-bottom: 1px #000000 dotted;}
+
+/*columns */
+#columns{;font-family: verdana; font-size: 11px; margin-left: 160px;margin-top: 20px;}
+#column_1 {width: 200px;margin-top: 600px;}
+#column_2 {width: 340px;}
+#column_3 {width: 70px;margin-top: 450px;}
+
+/* panels */
+.panel h2{opacity: 0.60; -moz-opacity: 0.60; filter:alpha(opacity=60); background: none; height: 5px; text-transform: lowercase; color: #000000; font-family: verdana; font-size: 12px;letter-spacing: .3em;font-weight: bold;}
+
+.panel{ font-family: verdana; font-weight: normal; font-size: 10px; color:seagreen; background: transparent url();border: 1px #333 dotted;}
+
+
+/* comments-user */
+.comments_panel dt{border-bottom:#000; color: #000; font-family: trebuchet ms; font-size: 11px;  font-weight: normal;}
+
+/* comments-h */
+.comments_panel .style1 dt{ border-bottom: 1px solid #22446d;}
+
+/* comments -comment  */
+.comments_panel dd{color: #000; font-family: trebuchet ms; font-size: 11px;  font-weight: normal;}
+
+
+/* header */
+#gaia_header {opacity: 0.40; -moz-opacity: 0.40; filter:alpha(opacity=40); background: #000000; !important}
+#gaia_header #header_left, #gaia_header #header_right {background: none;!important}
+#gaia_header #header_left img 
+
+
+/* user info */
+.user_info img {background: url(); height: 0px; width: 0px; padding: 5px 5px; margin-right: 2px;}   
+
+.user_info_popup, .item_info_popup {background: transparent; border: #48000c 1px solid; color: #ccc;  font-weight: normal;  margin-bottom : 0px; margin-left : 0px; margin-right : 0px; margin-top : 0px;}
+.user_info_popup li, .item_info_popup li {border: #000 1px dashed;  margin-bottom : 0px; margin-left : 0px; margin-right : 0px; margin-top : 0px;}
+
+.media_panel embed {height: 190px; width: 195px;}
+.house_panel embed {height: 318px; width: 233px;}
